@@ -6,3 +6,8 @@ The data type should begin with # and followed by the hashtag and its frenquency
 The query type should be an interger smaller than 20.
 The stop sign is just "stop".
 And whenever meeting a query, the program output the most several popular hashtags as needed.
+
+How to run this code:
+This code should be ran in terminal.
+Use the makefile to complile first.
+Then: JAVA hashtagcounter input_file_name
